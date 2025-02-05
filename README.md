@@ -21,7 +21,7 @@ Here is a list of problems I've solved so far:
 
 | Problem ID | Problem Name | Difficulty | Solution Link |
 |------------|--------------|------------|---------------|
-| 1          | Two Sum      | Easy       | [Solution](./solutions/two-sum.md) |
+| 1          | Two Sum      | Easy       | [Solution]([./solutions/two-sum.md](https://github.com/mopurisampathkumar/LEETCODE-PRACTICE-PROBLEMS/tree/main/1-two-sum)) |
 | 2          | Add Two Numbers | Medium | [Solution](./solutions/add-two-numbers.md) |
 | 3          | Longest Substring Without Repeating Characters | Medium | [Solution](./solutions/longest-substring.md) |
 | ...        | ...          | ...        | ...           |
